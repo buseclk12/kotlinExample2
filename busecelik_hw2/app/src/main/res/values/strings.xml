@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">busecelik_hw2</string>
+    <string name="price_format">Price: $%1$.2f</string>
+    <string name="house_type_image">house type</string>
+</resources>
